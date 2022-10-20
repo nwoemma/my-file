@@ -1,0 +1,8 @@
+firstname = input("enter your first name: ")
+lastname = input("enter your last name: "  )
+dateofbirth = input("enter your date of birth: ")
+parentname = input("enter your parents names: ") 
+level = input("enter your level: ")
+school = input("enter your school: ")
+hobbies = input("enter your hobbies: ")
+print(firstname,lastname,dateofbirth,parentname,level,school,hobbies)
